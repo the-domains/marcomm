@@ -1,0 +1,28 @@
+name: 'MarComm '
+favicon: null
+layout_spectrum: 0.863690240541473
+typography_spectrum: 0.001396986423060298
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.6137954031582922
+  lightness: 0.6898617742117494
+  saturation: 0.7975137252360582
+  rhythmicContrast: 0.9209928570780903
+purpose: []
